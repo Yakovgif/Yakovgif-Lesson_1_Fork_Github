@@ -1,0 +1,5 @@
+def summ_func():
+  a + b
+
+print(summ_func)
+
